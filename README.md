@@ -1,4 +1,4 @@
-Hey, I'm Aranha. I like GNU/Linux and to code in C++. Feel free to explore my repos and my <a href="https://aranha.ink">personal site</a> -> Still a WIP xd
+Hey, I'm Aranha. I like GNU/Linux and to code in C++. Feel free to explore my repos and my <a href="https://aranha.ink">personal site</a>
 <p align="center">
 <img src="https://seirdy.one/p/b/graphicdesign.1420375992.png" width="120"/>
 <a href="https://agoraroad.com/"><img alt="Agora Road" src="https://forum.agoraroad.com/data/addonflare/awardsystem/icons/180.gif?1632460929" width="120"></a>
